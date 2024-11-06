@@ -41,5 +41,5 @@ Cette route récupère tous les postes affichés depuis 3 mois à partir d'aujou
 - Le code s'exécute à partir du fichier  `server.js`.
 - J'utilise une architecture MVC (Modèle-Vue-Contrôleur), bien qu'il n'y ait pas de vue.
 - Toutes les routes sont définies dans le fichier `routes.js`, à l'exception de la toute première page.
-- Le dossier `controllers` contient toutes les fonctionnalités, telles que la recherche des postes, le calcul des statistiques et la gestion du token d'accès aux autres API REST de France Travail.
+- Le dossier `controllers` contient toutes les fonctionnalités, telles que la recherche des postes, le calcul des statistiques et la récupération du token d'accès de France Travail.
 
