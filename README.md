@@ -31,7 +31,7 @@ Ouvrez [http://localhost:8080](http://localhost:8080) dans votre navigateur pour
 
 Deux routes disponibles :
 Cette route récupère tous les postes affichés au cours de la journée sous forme de JSON.
-[http://localhost:8080/api/today](http://localhost:8080/api/search)
+[http://localhost:8080/api/today](http://localhost:8080/api/today)
 
 Cette route récupère tous les postes affichés depuis 3 mois à partir d'aujourd'hui. Cependant, comme je n'utilise pas de base de données, il est possible que les postes retournés soient uniquement ceux d'aujourd'hui. Cette route retourne un JSON contenant le nombre de postes dans différentes communes et départements de la France.
 [http://localhost:8080/api/statistic](http://localhost:8080/api/statistic)
