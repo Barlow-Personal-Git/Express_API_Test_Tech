@@ -13,7 +13,7 @@ pnpm install
 bun install
 ```
 
-Ensuite, remplacez `.env-example` par `.env` en fonction des informations fournies par courriel.
+Ensuite, remplacez `.env-example` par `.env` et ajoutez le `CLIENT_ID` et le `CLIENT_SECRET` inscrits dans le courriel dans ce fichier.
 
 Finalement, démarrez le serveur de développement :
 ```bash
